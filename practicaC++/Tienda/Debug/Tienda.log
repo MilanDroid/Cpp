@@ -1,0 +1,2 @@
+﻿  Tienda.cpp
+d:\basner\documents\github\c++\tienda\tienda\tienda.cpp(24): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "stdafx.h"' al código fuente?
